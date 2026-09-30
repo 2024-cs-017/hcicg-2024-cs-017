@@ -1,5 +1,2 @@
-__pycache__/
-*.pyc
-.venv/
-venv/
-.env
+build/, *.O, __pycache__/ , venv/
+
